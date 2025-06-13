@@ -4,6 +4,7 @@
   <img src="public/assets/logo.png" alt="Grow a Garden Logo" width="200"/>
   
   [![Live Preview](https://img.shields.io/badge/Live%20Preview-grow.samuelcedric.com-blue)](https://grow.samuelcedric.com)
+  [![Live Preview](https://img.shields.io/badge/Live%20Preview-grow.samuelcedric.com-blue)](https://honey-tracker.vercel.app/)
 </div>
 
 A web application to help players track their plant cycles and honey production in the game Grow a Garden. This tracker allows you to manage different plant variants, including their mutations, and calculate honey production.
