@@ -1,4 +1,10 @@
-# Grow a Garden Honey Crafting Tracker
+# <div align="center">Grow a Garden Honey Crafting Tracker</div>
+
+<div align="center">
+  <img src="public/assets/logo.png" alt="Grow a Garden Logo" width="200"/>
+  
+  [![Live Preview](https://img.shields.io/badge/Live%20Preview-grow.samuelcedric.com-blue)](https://grow.samuelcedric.com)
+</div>
 
 A web application to help players track their plant cycles and honey production in the game Grow a Garden. This tracker allows you to manage different plant variants, including their mutations, and calculate honey production.
 
@@ -103,8 +109,9 @@ growagarden-tracker/
 │   │   └── Home.tsx       # Main application page
 │   └── main.tsx           # Application entry point
 ├── public/
-│   └── assets/
-│       └── icons/         # Plant icons
+│   ├── assets/
+│   │   ├── logo.png       # Application logo
+│   │   └── icons/         # Plant icons
 ├── Dockerfile            # Docker configuration
 └── package.json
 ```
